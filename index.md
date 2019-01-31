@@ -21,7 +21,7 @@ Extends the light/dark mechanic from the base game. Affects combat, AI, characte
 #### SquadUITweaks: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219) | [Source](https://github.com/AndTheManDrew/SquadUITweaks/tree/master/Source)
 Approximately 3000 Steam subscribers.
 
-A simple QoL mod. Tweaks part of the game's UI by decorating a base game class.
+A simple QoL mod. Tweaks part of the game's UI by decorating a base game class with a callback.
 
 
 
