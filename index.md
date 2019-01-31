@@ -1,39 +1,34 @@
 # Andrew Denman
 
+## C++
+
+#### Learning Project: [Source](https://github.com/asedenman/cpp_learning_project/tree/master/ProjectEuler/src)
+
+A project for learning C++ by answering problems from projecteuler.net. Includes a win32 GUI.
+
+- A custom window procedure [Link](https://github.com/asedenman/cpp_learning_project/blob/master/ProjectEuler/src/windows/ProblemWindow.cpp)
+- Using memoisation to cut down problem solving time [Link](https://github.com/asedenman/cpp_learning_project/blob/master/ProjectEuler/src/problems/Prob15.cpp)
+- Unit testing [Link](https://github.com/asedenman/cpp_learning_project/blob/master/UnitTests/ProblemTests.cpp)
+
 ## C#
 
-### Mods for the game Rimworld
+### Mods for Rimworld:
 
-NightVision:
+Both these mods use a runtime patching library called Harmony and were published to GitHub on my other account.
+
+#### NightVision: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1464989530&searchtext=) | [Source](https://github.com/AndTheManDrew/NightVision/tree/master/NightVision/Source) | [Youtube review](https://www.youtube.com/watch?v=5lTOfqgUMMo)
+
+Approximately 2000 Steam subscribers.
+
+Extends the light/dark mechanic from the base game. Affects combat, AI, character stats and gear, game events.
+
+- Detects all compatible game objects including other modded content [Example](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/ModInit/Init_Hediffs.cs)
+- Customises the results of the game's random character generator [Link](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/Incidents/SolarRaid_PawnGenerator.cs) and can output the results for debugging [Link](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/Testing/DebugFlareRaidPawnGenXml.cs)
+- Dynamically patches methods depending on the users settings choices [Example](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/Settings/SettingOption.cs)
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### SquadUITweaks: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1455382219) | [Source](https://github.com/AndTheManDrew/SquadUITweaks/tree/master/Source)
+Approximately 3000 Steam subscribers.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asedenman/asedenman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A simple QoL mod. Tweaks part of the game's UI by decorating a base game class.
