@@ -4,7 +4,7 @@
 
 ### Mods for Rimworld:
 
-Both these mods use a runtime patching library called Harmony and are on a seperate gitHub account for privacy reasons.
+Both these mods use a runtime patching library called Harmony. They are hosted on a separate GitHub account for privacy reasons.
 
 #### NightVision: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1464989530&searchtext=) | [Source](https://github.com/AndTheManDrew/NightVision/tree/master/NightVision/Source) | [Youtube review](https://www.youtube.com/watch?v=5lTOfqgUMMo)
 
