@@ -10,7 +10,7 @@ Both these mods use a runtime patching library called Harmony. They are hosted o
 
 Approximately 2000 Steam subscribers.
 
-Extends the light/dark mechanic from the base game. Affects combat, AI, character stats and gear, game events.
+Extends the light/dark mechanic from the base game. Affects combat, AI, character stats and gear, and in-game events.
 
 - Detects all compatible game objects including other modded content ([Example](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/ModInit/Init_Hediffs.cs)).
 - Customises the results of the game's random character generator ([Link](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/Incidents/SolarRaid_PawnGenerator.cs)) with xml output for testing ([Link](https://github.com/AndTheManDrew/NightVision/blob/master/NightVision/Source/Testing/DebugFlareRaidPawnGenXml.cs)).
