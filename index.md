@@ -1,7 +1,6 @@
-<p align="centre">
-Contact via email at: <andy.denman43@gmail.com>
-<end p>
-  
+
+Contact at: <andy.denman43@gmail.com>
+
 ## C#
 
 ### Mods for Rimworld:
