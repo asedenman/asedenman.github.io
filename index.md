@@ -1,4 +1,4 @@
-andy.denman43@gmail.com
+Contact via email at: andy.denman43@gmail.com
 
 ## C#
 
