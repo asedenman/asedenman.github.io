@@ -1,4 +1,4 @@
-# Andrew Denman
+andy.denman43@gmail.com
 
 ## C#
 
