@@ -6,7 +6,7 @@ Contact via email at: andy.denman43@gmail.com
 
 Both these mods use a runtime patching library called Harmony. They are hosted on a separate GitHub account for privacy reasons.
 
-#### NightVision: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1464989530&searchtext=) | [Source](https://github.com/AndTheManDrew/NightVision/tree/master/NightVision/Source) | [Youtube review](https://www.youtube.com/watch?v=5lTOfqgUMMo)
+#### NightVision: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1464989530&searchtext=) | [Source](https://github.com/AndTheManDrew/NightVision/tree/master/NightVision/Source) | [Youtube review](https://www.youtube.com/watch?v=5lTOfqgUMMo)
 
 Approximately 2000 Steam subscribers.
 
