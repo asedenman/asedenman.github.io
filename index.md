@@ -1,11 +1,22 @@
 
-Contact at: <andy.denman43@gmail.com>
+Contact at: <anything@ased.aleeas.com>
+
+## Python
+
+### Battery Modelling Notebook
+
+A demonstration Jupyter notebook created to show a possible application of machine learning to optimise a battery control system.
+Uses Pandas and Numpy to shape data, and Keras to train a DQN model in order to minimise power costs by peak-shifting grid load.
+
+- Data exploration and rough DFS search ([Link](https://github.com/asedenman/BatteryModelling/blob/master/Batteries.ipynb))
+- Broad written analysis and Keras model ([Link](https://github.com/asedenman/BatteryModelling/blob/master/BatteryModel.ipynb))
+
 
 ## C#
 
 ### Mods for Rimworld:
 
-Both these mods use a runtime patching library called Harmony. They are hosted on a separate GitHub account for privacy reasons.
+Both these mods use a runtime patching library called Harmony. They are hosted on a separate GitHub account.
 
 #### NightVision: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1464989530&searchtext=) | [Source](https://github.com/AndTheManDrew/NightVision/tree/master/NightVision/Source) | [Youtube review](https://www.youtube.com/watch?v=5lTOfqgUMMo)
 
