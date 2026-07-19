@@ -1,6 +1,4 @@
 
-Contact at: <anything@ased.aleeas.com>
-
 ## HM Land Registry RAG Q&A (private repository)
 
 ![Top language](https://img.shields.io/badge/python-100%25-3572A5)
