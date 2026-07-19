@@ -25,7 +25,7 @@ A .NET 10 application that consolidates multiple PDF files into a professionally
 
 ## Battery Modelling Notebook
 
-![Top language](https://img.shields.io/github/languages/top/asedenman/BatteryModelling)
+![Top language](https://img.shields.io/badge/python-100%25-3572A5)
 
 A demonstration Jupyter notebook created to show a possible application of machine learning to optimise a battery control system.
 Uses Pandas and Numpy to shape data, and Keras to train a DQN model in order to minimise power costs by peak-shifting grid load.
