@@ -5,7 +5,7 @@
 
 A retrieval-augmented generation (RAG) application in Python that answers questions about HM Land Registry processes, grounded strictly in retrieved guide text with practice-guide citations — never the model's own knowledge. Covers the full pipeline: scraping the official GOV.UK collection, cleaning and chunking messy PDF and HTML sources, embedding into a vector store, and serving answers through a local chat interface.
 
-- Ingests difficult real-world sources: scanned PDFs, header/footer cleanup, and section-aware HTML parsing.
+- Ingests real-world sources: scanned PDFs, header/footer cleanup, and section-aware HTML parsing.
 - Guards retrieval quality with an evaluation gate against a golden question set, plus build versioning and a fully mocked, keyless test suite.
 - Provider-agnostic config with swappable LLM/embedding backends (Anthropic, OpenAI, local HuggingFace).
 - Built with Python, LangChain, ChromaDB, Gradio, BeautifulSoup, pypdf, and pytest.
